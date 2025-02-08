@@ -1,4 +1,4 @@
-# Simple Bubble Sorting Visualizer
+# Basic Bubble Sorting Visualizer
 ## made this as a part of my 2nd year DSA Project. 
 
 *Requires python3 tkinter.
